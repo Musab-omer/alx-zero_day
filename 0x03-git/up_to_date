@@ -1,0 +1,10 @@
+git clone to clone a repostory from remote repo
+git config --global git.name "github profile name " 
+git config --global git.email "github email"
+git add
+git commit 
+git push
+git checkout -b
+git checkout
+git branch
+git pull 
